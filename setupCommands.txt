@@ -1,0 +1,30 @@
+
+Create virtual environment:
+python3 -m venv venv
+
+Activate virtual environment:
+source venv/bin/activate
+
+install dependencies
+pip install uvicorn
+pip install fastapi
+pip install jinja2
+
+pip list (to verify installed stuff)
+OR (if exists)
+
+Python version of npm install
+pip install -r requirements.txt
+
+(maybe update pip):
+python3 -m pip install --upgrade pip
+
+Install js dependencies (tailwindcss and daisyUI etc)
+npm install
+
+
+Run FastAPI application:
+uvicorn app.main:app --reload
+
+IN OTHER TERMINAL FOR HMR (ensure nodemon is installed):
+npm run watch-css

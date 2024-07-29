@@ -1,0 +1,85 @@
+# Step 1: Connect to your DigitalOcean Droplet
+ssh your_username@your_server_ip
+
+# Step 2: Update and upgrade the system
+sudo apt update && sudo apt upgrade -y
+
+# Step 3: Install necessary dependencies
+sudo apt install python3-pip python3-venv nginx git -y
+
+# Step 4: Clone your project repository
+cd /opt
+sudo git clone https://github.com/your_username/your_project.git
+sudo mv your_project printer3
+cd printer3
+
+# Step 5: Set up a Python virtual environment
+sudo python3 -m venv venv
+source venv/bin/activate
+
+# Step 6: Install project dependencies
+pip install -r requirements.txt
+
+# Step 7: Create a systemd service file for Uvicorn
+sudo nano /etc/systemd/system/printer3.service
+
+# Paste the following configuration into the file
+[Unit]
+Description=Printer3 FastAPI Application
+After=network.target
+
+[Service]
+User=root
+Group=www-data
+WorkingDirectory=/opt/printer3
+Environment="PATH=/opt/printer3/venv/bin"
+ExecStart=/opt/printer3/venv/bin/uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 1
+
+[Install]
+WantedBy=multi-user.target
+
+# Save and close the file (Ctrl+O, Enter, Ctrl+X)
+
+# Step 8: Reload the systemd daemon and start the service
+sudo systemctl daemon-reload
+sudo systemctl start printer3
+sudo systemctl enable printer3
+
+# Step 9: Configure Nginx as a reverse proxy
+sudo nano /etc/nginx/sites-available/printer3
+
+# Paste the following configuration into the file
+server {
+    listen 80;
+    server_name your_domain.com;
+
+    location / {
+        proxy_pass http://127.0.0.1:8000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+# Save and close the file (Ctrl+O, Enter, Ctrl+X)
+
+# Step 10: Enable the Nginx configuration
+sudo ln -s /etc/nginx/sites-available/printer3 /etc/nginx/sites-enabled/
+
+# Step 11: Test the Nginx configuration and restart Nginx
+sudo nginx -t
+sudo systemctl restart nginx
+
+# Step 12: (Optional) Secure Nginx with Let's Encrypt
+sudo apt install certbot python3-certbot-nginx -y
+sudo certbot --nginx -d your_domain.com
+
+# Follow the prompts to complete the certificate installation
+
+# Step 13: Check the status of the Uvicorn and Nginx services
+sudo systemctl status printer3
+sudo systemctl status nginx
+
+# Step 14: Monitor Uvicorn logs for debugging
+sudo journalctl -u printer3.service -f
