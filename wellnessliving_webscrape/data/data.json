@@ -1,0 +1,1258 @@
+[
+    {
+        "type": "GRFP Strength + Conditioning",
+        "time": "10:00am - 11:00am",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "8 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 11:00am - 12:00pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Ross Manzano"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:00am - 7:00am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Sarah Kramer"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 7:00am - 8:00am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Tim Mortimer"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:15am - 8:00am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Stephanie Kujawski"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "7:30am - 8:30am",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "4 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 7:45am - 8:45am ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Zhaarn Maheswaran"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:00am - 8:45am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Judith Hanlon"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:30am - 9:30am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Susan Zinder (she/her)"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:30am - 9:30am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Diane Beasley"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:30am - 9:30am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "11 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:00am - 9:45am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Robin Warren"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "9:30am - 10:25am",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "5 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:45am - 10:30am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Steven Yung"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:15am - 11:00am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Tamar Goldstein"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 10:30am - 11:30am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Margarita Viani"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 11:00am - 11:45am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Ellen Leon"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 12:00pm - 12:45pm ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Melissa Rosen"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 12:00pm - 12:45pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Olga Kaplan"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 12:00pm - 12:45pm ",
+        "staff": [
+            "Kevin Moroney"
+        ],
+        "attendance": "4 / 10"
+    },
+    {
+        "type": "10 Sessions",
+        "time": " 12:30pm - 1:30pm ",
+        "staff": [
+            "Chris Hall"
+        ],
+        "attendance": "Shirley Perkins"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 1:00pm - 2:00pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Joshua Zweig"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 1:00pm - 2:00pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Robert From"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 1:30pm - 2:15pm ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Debra Adams"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 1:30pm - 2:15pm ",
+        "staff": [
+            "Gigi Barlowe"
+        ],
+        "attendance": "Rona Mallory"
+    },
+    {
+        "type": "Drop In Rental",
+        "time": " 3:00pm - 4:00pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Alec Jordan"
+    },
+    {
+        "type": "Drop In Rental",
+        "time": " 4:00pm - 5:00pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Peter Barschdorff"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 4:30pm - 5:15pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "John Stern"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 5:15pm - 6:00pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Diana Gersten"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 5:30pm - 6:30pm ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Neha Patel"
+    },
+    {
+        "type": "GRFP Strength + Conditioning",
+        "time": "6:00pm - 6:55pm",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "12 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:30pm - 7:30pm ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Barry Procopio"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 7:00pm - 7:45pm ",
+        "staff": [
+            "Allison Field"
+        ],
+        "attendance": "Lesley Field"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Jennifer Baker"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Gilad Kuperman"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Corey Easley"
+        ],
+        "attendance": "Rosemary Misdary"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Kevin Moroney"
+        ],
+        "attendance": "Jessica Weiner"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:30am - 8:15am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Roni Jacobson"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:30am - 8:15am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "6 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:45am - 8:30am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Martin Aares"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:00am - 9:00am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Greg Eisner"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:00am - 9:00am ",
+        "staff": [
+            "Corey Easley"
+        ],
+        "attendance": "Aaron Katz"
+    },
+    {
+        "type": "inBody Scan",
+        "time": " 8:15am - 8:20am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Lisa Stuppler"
+    },
+    {
+        "type": "inBody Scan",
+        "time": " 8:15am - 8:20am ",
+        "staff": [
+            "Kevin Moroney"
+        ],
+        "attendance": "Ben Schaye"
+    },
+    {
+        "type": "Women's Strength: Conditioning",
+        "time": "8:30am - 9:30am",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "9 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:45am - 9:30am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Philip Chiang"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 9:00am - 10:00am ",
+        "staff": [
+            "Corey Easley"
+        ],
+        "attendance": "Rob Tewlow"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 9:00am - 10:00am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Ghena Korn"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:15am - 10:00am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Carl Oppenheimer"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Chase Hejtmanek"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "3 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 10:00am - 11:00am ",
+        "staff": [
+            "Corey Easley"
+        ],
+        "attendance": "Michael Sledd"
+    },
+    {
+        "type": "30-minute Training",
+        "time": " 11:00am - 11:30am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Karen Bank"
+    },
+    {
+        "type": "30-minute Training",
+        "time": " 11:00am - 11:30am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Robin Black"
+    },
+    {
+        "type": "30-minute Training",
+        "time": " 11:00am - 11:30am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Peter Ligh"
+    },
+    {
+        "type": "30-minute Training",
+        "time": " 11:00am - 11:30am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Checed Ligh"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 11:30am - 12:30pm ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Michelle Liss"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "12:30pm - 1:30pm",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "3 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 2:00pm - 2:45pm ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Hien Esmonde"
+    },
+    {
+        "type": "60-minute VirtuaI Training",
+        "time": " 3:00pm - 4:00pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Ross Manzano"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 4:00pm - 5:00pm ",
+        "staff": [
+            "Gabrielle Bolin"
+        ],
+        "attendance": "Sawyer Rivera"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 4:15pm - 5:00pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Alison Goodman"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 5:00pm - 5:45pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "James Rego"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 5:45pm - 6:45pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Ran Rubin"
+    },
+    {
+        "type": "GRFP Strength + Conditioning",
+        "time": "6:00pm - 7:00pm",
+        "staff": [
+            "Gabrielle Bolin"
+        ],
+        "attendance": "6 / 12"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "6:00am - 7:00am",
+        "staff": [
+            "Isadora Oquaye"
+        ],
+        "attendance": "5 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:45am - 7:45am ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Michael Seckler"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Cybele Fishman"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "7:30am - 8:30am",
+        "staff": [
+            "Isadora Oquaye"
+        ],
+        "attendance": "7 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 7:45am - 8:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Greg Eisner"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "8:30am - 9:30am",
+        "staff": [
+            "Gabrielle Bolin"
+        ],
+        "attendance": "11 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:45am - 9:30am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Patrick Sinclair"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:45am - 9:30am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Melissa Rosen"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Stephanie Kujawski"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Tamar Goldstein"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Gabrielle Bolin"
+        ],
+        "attendance": "3 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 10:00am - 11:00am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Sabrina Blum"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:30am - 12:15pm ",
+        "staff": [
+            "Isadora Oquaye"
+        ],
+        "attendance": "Jackie Tannenbaum"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 12:00pm - 12:45pm ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Ellen Leon"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 4:00pm - 4:45pm ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Debra Adams"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 5:00pm - 5:45pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Diana Gersten"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 5:00pm - 5:45pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Benjamin JOBES"
+    },
+    {
+        "type": "GRFP Strength + Conditioning",
+        "time": "6:00pm - 6:55pm",
+        "staff": [
+            "Corey Easley"
+        ],
+        "attendance": "5 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:30pm - 7:30pm ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Barry Procopio"
+    },
+    {
+        "type": "Drop In Rental",
+        "time": " 7:00pm - 8:00pm ",
+        "staff": [
+            "Christine Costas"
+        ],
+        "attendance": "Kathleen Massey"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:30am - 7:30am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Amy Peterson"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 7:00am - 8:00am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Tim Mortimer"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:30am - 8:15am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Carl Oppenheimer"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:30am - 8:15am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Roni Jacobson"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:30am - 8:15am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "8 / 10"
+    },
+    {
+        "type": "Women's Strength: Conditioning",
+        "time": "8:30am - 9:30am",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "11 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:45am - 9:30am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "George Gerrish"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 9:00am - 10:00am ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Stacey Lender"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 9:00am - 10:00am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Susan Zinder (she/her)"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:15am - 10:00am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Chase Hejtmanek"
+    },
+    {
+        "type": "30-minute Training",
+        "time": " 9:30am - 10:00am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Geraldine Anathan"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 10:00am - 11:00am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Sabrina Blum"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:00am - 11:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Thomas Haynie"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:00am - 11:45am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Rivka Einy"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:00am - 11:45am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Karen Bank"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:30am - 12:15pm ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Debra Adams"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:30am - 12:15pm ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Michelle Liss"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 12:00pm - 1:00pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Ran Rubin"
+    },
+    {
+        "type": "Private Royce Class (NOT PUBLIC)",
+        "time": "12:30pm - 1:15pm",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "3 / 10"
+    },
+    {
+        "type": "Private Royce Class (NOT PUBLIC)",
+        "time": "12:30pm - 1:15pm",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "3 / 12"
+    },
+    {
+        "type": "30-minute Training",
+        "time": " 1:45pm - 2:15pm ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Eugenia Martin"
+    },
+    {
+        "type": "60-minute VirtuaI Training",
+        "time": " 3:00pm - 4:00pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Ross Manzano"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 4:00pm - 5:00pm ",
+        "staff": [
+            "Gabrielle Bolin"
+        ],
+        "attendance": "Sawyer Rivera"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 4:15pm - 5:00pm ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Alison Goodman"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 4:15pm - 5:00pm ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Lori Bosses"
+    },
+    {
+        "type": "60-Minute Training for 2 people",
+        "time": " 5:00pm - 6:00pm ",
+        "staff": [
+            "Olivia Matthes Theriault"
+        ],
+        "attendance": "Helen Garey"
+    },
+    {
+        "type": "60-Minute Training for 2 people",
+        "time": " 5:00pm - 6:00pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Benjamin JOBES"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 5:15pm - 6:00pm ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Seana Friedman"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 5:15pm - 6:00pm ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Elizabeth Burns"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 5:30pm - 6:15pm ",
+        "staff": [
+            "Kevin Moroney"
+        ],
+        "attendance": "Jonathan Miller"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:00pm - 7:00pm ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Neha Patel"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:00pm - 7:00pm ",
+        "staff": [
+            "Gabrielle Bolin"
+        ],
+        "attendance": "5 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 6:00pm - 7:00pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Sally Goodwin"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 6:45pm - 7:30pm ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Sam DeRosa-Farag"
+    },
+    {
+        "type": "10 Sessions",
+        "time": " 7:10pm - 8:10pm ",
+        "staff": [
+            "Jacky Ruan"
+        ],
+        "attendance": "Patrice Jordan"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "6:00am - 7:00am",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "6 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Patrick Sinclair"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Sarah Kramer"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Greg Eisner"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 7:00am - 7:45am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Jessica Weiner"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "7:30am - 8:30am",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "3 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:00am - 8:45am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Martin Aares"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:00am - 8:45am ",
+        "staff": [
+            "Alex Steigelfest"
+        ],
+        "attendance": "Isabel Connolly"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:00am - 8:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "Robin Black"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:30am - 9:30am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Sonam Ganapathy"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:30am - 9:30am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "8 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:45am - 9:30am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Robin Warren"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:45am - 9:30am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Jennifer Baker"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 9:15am - 10:00am ",
+        "staff": [
+            "Kevin Moroney"
+        ],
+        "attendance": "Ben Schaye"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "John Stern"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Karen Bank"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Ghena Korn"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:30am - 10:15am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Debra Adams"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:00am - 10:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "George Gerrish"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:00am - 10:45am ",
+        "staff": [
+            "Heather Gunn-Rivera"
+        ],
+        "attendance": "Michelle Liss"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:15am - 11:00am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Steven Yung"
+    },
+    {
+        "type": "45-min Virtual Training",
+        "time": " 10:30am - 11:15am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Stacy Reilly"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:00am - 11:45am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Hendrix Tewlow"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 11:00am - 11:45am ",
+        "staff": [
+            "Wilfredo Rivera"
+        ],
+        "attendance": "James Stoeffel"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 5:00pm - 6:00pm ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Barry Procopio"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:00am - 9:00am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Tim Mortimer"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 8:00am - 9:00am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Sam DeRosa-Farag"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 8:15am - 9:00am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Linda Ng"
+    },
+    {
+        "type": "Women’s Strength: Lift",
+        "time": "8:30am - 9:30am",
+        "staff": [
+            "Olivia Matthes Theriault"
+        ],
+        "attendance": "4 / 12"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 9:00am - 10:00am ",
+        "staff": [
+            "Sammie Zimay"
+        ],
+        "attendance": "Amy Peterson"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 9:15am - 10:00am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Elizabeth Burns"
+    },
+    {
+        "type": "GRFP Strength + Conditioning",
+        "time": "9:30am - 10:30am",
+        "staff": [
+            "Olivia Matthes Theriault"
+        ],
+        "attendance": "1 / 12"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:00am - 10:45am ",
+        "staff": [
+            "Tais Aguirre"
+        ],
+        "attendance": "Jessica Fox"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:00am - 10:45am ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Chase Hejtmanek"
+    },
+    {
+        "type": "45-Minute Training",
+        "time": " 10:00am - 10:45am ",
+        "staff": [
+            "Emily Battles"
+        ],
+        "attendance": "Emelia Trerotola-Mahon"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 11:45am - 12:45pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Ran Rubin"
+    },
+    {
+        "type": "60-Minute Training",
+        "time": " 12:45pm - 1:45pm ",
+        "staff": [
+            "Christopher Olsen"
+        ],
+        "attendance": "Teddy Buland"
+    }
+]
