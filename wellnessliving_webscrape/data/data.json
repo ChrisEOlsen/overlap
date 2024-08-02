@@ -2,6 +2,7 @@
     {
         "type": "GRFP Strength + Conditioning",
         "time": "10:00am - 11:00am",
+        "day": "Sunday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -10,6 +11,7 @@
     {
         "type": "60-Minute Training",
         "time": " 11:00am - 12:00pm ",
+        "day": "Sunday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -18,6 +20,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:00am - 7:00am ",
+        "day": "Monday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -26,6 +29,7 @@
     {
         "type": "60-Minute Training",
         "time": " 7:00am - 8:00am ",
+        "day": "Monday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -34,6 +38,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:15am - 8:00am ",
+        "day": "Monday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -42,6 +47,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "7:30am - 8:30am",
+        "day": "Monday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -50,6 +56,7 @@
     {
         "type": "60-Minute Training",
         "time": " 7:45am - 8:45am ",
+        "day": "Monday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -58,6 +65,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:00am - 8:45am ",
+        "day": "Monday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -66,6 +74,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:30am - 9:30am ",
+        "day": "Monday",
         "staff": [
             "Emily Battles"
         ],
@@ -74,6 +83,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:30am - 9:30am ",
+        "day": "Monday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -82,6 +92,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:30am - 9:30am ",
+        "day": "Monday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -90,6 +101,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:00am - 9:45am ",
+        "day": "Monday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -98,6 +110,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "9:30am - 10:25am",
+        "day": "Monday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -106,6 +119,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:45am - 10:30am ",
+        "day": "Monday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -114,6 +128,7 @@
     {
         "type": "45-Minute Training",
         "time": " 10:15am - 11:00am ",
+        "day": "Monday",
         "staff": [
             "Emily Battles"
         ],
@@ -122,6 +137,7 @@
     {
         "type": "60-Minute Training",
         "time": " 10:30am - 11:30am ",
+        "day": "Monday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -130,6 +146,7 @@
     {
         "type": "45-min Virtual Training",
         "time": " 11:00am - 11:45am ",
+        "day": "Monday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -138,6 +155,7 @@
     {
         "type": "45-Minute Training",
         "time": " 12:00pm - 12:45pm ",
+        "day": "Monday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -146,6 +164,7 @@
     {
         "type": "45-Minute Training",
         "time": " 12:00pm - 12:45pm ",
+        "day": "Monday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -154,6 +173,7 @@
     {
         "type": "45-Minute Training",
         "time": " 12:00pm - 12:45pm ",
+        "day": "Monday",
         "staff": [
             "Kevin Moroney"
         ],
@@ -162,6 +182,7 @@
     {
         "type": "10 Sessions",
         "time": " 12:30pm - 1:30pm ",
+        "day": "Monday",
         "staff": [
             "Chris Hall"
         ],
@@ -170,6 +191,7 @@
     {
         "type": "60-Minute Training",
         "time": " 1:00pm - 2:00pm ",
+        "day": "Monday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -178,6 +200,7 @@
     {
         "type": "60-Minute Training",
         "time": " 1:00pm - 2:00pm ",
+        "day": "Monday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -186,6 +209,7 @@
     {
         "type": "45-Minute Training",
         "time": " 1:30pm - 2:15pm ",
+        "day": "Monday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -194,6 +218,7 @@
     {
         "type": "45-Minute Training",
         "time": " 1:30pm - 2:15pm ",
+        "day": "Monday",
         "staff": [
             "Gigi Barlowe"
         ],
@@ -202,6 +227,7 @@
     {
         "type": "Drop In Rental",
         "time": " 3:00pm - 4:00pm ",
+        "day": "Monday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -210,6 +236,7 @@
     {
         "type": "Drop In Rental",
         "time": " 4:00pm - 5:00pm ",
+        "day": "Monday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -218,6 +245,7 @@
     {
         "type": "45-Minute Training",
         "time": " 4:30pm - 5:15pm ",
+        "day": "Monday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -226,6 +254,7 @@
     {
         "type": "45-Minute Training",
         "time": " 5:15pm - 6:00pm ",
+        "day": "Monday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -234,6 +263,7 @@
     {
         "type": "60-Minute Training",
         "time": " 5:30pm - 6:30pm ",
+        "day": "Monday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -242,6 +272,7 @@
     {
         "type": "GRFP Strength + Conditioning",
         "time": "6:00pm - 6:55pm",
+        "day": "Monday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -250,6 +281,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:30pm - 7:30pm ",
+        "day": "Monday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -258,6 +290,7 @@
     {
         "type": "45-min Virtual Training",
         "time": " 7:00pm - 7:45pm ",
+        "day": "Monday",
         "staff": [
             "Allison Field"
         ],
@@ -266,6 +299,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Tuesday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -274,6 +308,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Tuesday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -282,6 +317,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Tuesday",
         "staff": [
             "Corey Easley"
         ],
@@ -290,6 +326,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Tuesday",
         "staff": [
             "Kevin Moroney"
         ],
@@ -298,6 +335,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:30am - 8:15am ",
+        "day": "Tuesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -306,6 +344,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:30am - 8:15am ",
+        "day": "Tuesday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -314,6 +353,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:45am - 8:30am ",
+        "day": "Tuesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -322,6 +362,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:00am - 9:00am ",
+        "day": "Tuesday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -330,6 +371,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:00am - 9:00am ",
+        "day": "Tuesday",
         "staff": [
             "Corey Easley"
         ],
@@ -338,6 +380,7 @@
     {
         "type": "inBody Scan",
         "time": " 8:15am - 8:20am ",
+        "day": "Tuesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -346,6 +389,7 @@
     {
         "type": "inBody Scan",
         "time": " 8:15am - 8:20am ",
+        "day": "Tuesday",
         "staff": [
             "Kevin Moroney"
         ],
@@ -354,6 +398,7 @@
     {
         "type": "Women's Strength: Conditioning",
         "time": "8:30am - 9:30am",
+        "day": "Tuesday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -362,6 +407,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:45am - 9:30am ",
+        "day": "Tuesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -370,6 +416,7 @@
     {
         "type": "60-Minute Training",
         "time": " 9:00am - 10:00am ",
+        "day": "Tuesday",
         "staff": [
             "Corey Easley"
         ],
@@ -378,6 +425,7 @@
     {
         "type": "60-Minute Training",
         "time": " 9:00am - 10:00am ",
+        "day": "Tuesday",
         "staff": [
             "Emily Battles"
         ],
@@ -386,6 +434,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:15am - 10:00am ",
+        "day": "Tuesday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -394,6 +443,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Tuesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -402,6 +452,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Tuesday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -410,6 +461,7 @@
     {
         "type": "60-Minute Training",
         "time": " 10:00am - 11:00am ",
+        "day": "Tuesday",
         "staff": [
             "Corey Easley"
         ],
@@ -418,6 +470,7 @@
     {
         "type": "30-minute Training",
         "time": " 11:00am - 11:30am ",
+        "day": "Tuesday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -426,6 +479,7 @@
     {
         "type": "30-minute Training",
         "time": " 11:00am - 11:30am ",
+        "day": "Tuesday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -434,6 +488,7 @@
     {
         "type": "30-minute Training",
         "time": " 11:00am - 11:30am ",
+        "day": "Tuesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -442,6 +497,7 @@
     {
         "type": "30-minute Training",
         "time": " 11:00am - 11:30am ",
+        "day": "Tuesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -450,6 +506,7 @@
     {
         "type": "60-Minute Training",
         "time": " 11:30am - 12:30pm ",
+        "day": "Tuesday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -458,6 +515,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "12:30pm - 1:30pm",
+        "day": "Tuesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -466,6 +524,7 @@
     {
         "type": "45-Minute Training",
         "time": " 2:00pm - 2:45pm ",
+        "day": "Tuesday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -474,6 +533,7 @@
     {
         "type": "60-minute VirtuaI Training",
         "time": " 3:00pm - 4:00pm ",
+        "day": "Tuesday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -482,6 +542,7 @@
     {
         "type": "60-Minute Training",
         "time": " 4:00pm - 5:00pm ",
+        "day": "Tuesday",
         "staff": [
             "Gabrielle Bolin"
         ],
@@ -490,6 +551,7 @@
     {
         "type": "45-Minute Training",
         "time": " 4:15pm - 5:00pm ",
+        "day": "Tuesday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -498,6 +560,7 @@
     {
         "type": "45-Minute Training",
         "time": " 5:00pm - 5:45pm ",
+        "day": "Tuesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -506,6 +569,7 @@
     {
         "type": "60-Minute Training",
         "time": " 5:45pm - 6:45pm ",
+        "day": "Tuesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -514,6 +578,7 @@
     {
         "type": "GRFP Strength + Conditioning",
         "time": "6:00pm - 7:00pm",
+        "day": "Tuesday",
         "staff": [
             "Gabrielle Bolin"
         ],
@@ -522,6 +587,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "6:00am - 7:00am",
+        "day": "Wednesday",
         "staff": [
             "Isadora Oquaye"
         ],
@@ -530,6 +596,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:45am - 7:45am ",
+        "day": "Wednesday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -538,6 +605,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Wednesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -546,6 +614,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "7:30am - 8:30am",
+        "day": "Wednesday",
         "staff": [
             "Isadora Oquaye"
         ],
@@ -554,6 +623,7 @@
     {
         "type": "60-Minute Training",
         "time": " 7:45am - 8:45am ",
+        "day": "Wednesday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -562,6 +632,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "8:30am - 9:30am",
+        "day": "Wednesday",
         "staff": [
             "Gabrielle Bolin"
         ],
@@ -570,6 +641,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:45am - 9:30am ",
+        "day": "Wednesday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -578,6 +650,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:45am - 9:30am ",
+        "day": "Wednesday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -586,6 +659,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Wednesday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -594,6 +668,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Wednesday",
         "staff": [
             "Emily Battles"
         ],
@@ -602,6 +677,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Wednesday",
         "staff": [
             "Gabrielle Bolin"
         ],
@@ -610,6 +686,7 @@
     {
         "type": "60-Minute Training",
         "time": " 10:00am - 11:00am ",
+        "day": "Wednesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -618,6 +695,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:30am - 12:15pm ",
+        "day": "Wednesday",
         "staff": [
             "Isadora Oquaye"
         ],
@@ -626,6 +704,7 @@
     {
         "type": "45-min Virtual Training",
         "time": " 12:00pm - 12:45pm ",
+        "day": "Wednesday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -634,6 +713,7 @@
     {
         "type": "45-Minute Training",
         "time": " 4:00pm - 4:45pm ",
+        "day": "Wednesday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -642,6 +722,7 @@
     {
         "type": "45-Minute Training",
         "time": " 5:00pm - 5:45pm ",
+        "day": "Wednesday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -650,6 +731,7 @@
     {
         "type": "45-Minute Training",
         "time": " 5:00pm - 5:45pm ",
+        "day": "Wednesday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -658,6 +740,7 @@
     {
         "type": "GRFP Strength + Conditioning",
         "time": "6:00pm - 6:55pm",
+        "day": "Wednesday",
         "staff": [
             "Corey Easley"
         ],
@@ -666,6 +749,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:30pm - 7:30pm ",
+        "day": "Wednesday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -674,6 +758,7 @@
     {
         "type": "Drop In Rental",
         "time": " 7:00pm - 8:00pm ",
+        "day": "Wednesday",
         "staff": [
             "Christine Costas"
         ],
@@ -682,6 +767,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:30am - 7:30am ",
+        "day": "Thursday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -690,6 +776,7 @@
     {
         "type": "60-Minute Training",
         "time": " 7:00am - 8:00am ",
+        "day": "Thursday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -698,6 +785,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:30am - 8:15am ",
+        "day": "Thursday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -706,6 +794,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:30am - 8:15am ",
+        "day": "Thursday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -714,6 +803,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:30am - 8:15am ",
+        "day": "Thursday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -722,6 +812,7 @@
     {
         "type": "Women's Strength: Conditioning",
         "time": "8:30am - 9:30am",
+        "day": "Thursday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -730,6 +821,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:45am - 9:30am ",
+        "day": "Thursday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -738,6 +830,7 @@
     {
         "type": "60-Minute Training",
         "time": " 9:00am - 10:00am ",
+        "day": "Thursday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -746,6 +839,7 @@
     {
         "type": "60-Minute Training",
         "time": " 9:00am - 10:00am ",
+        "day": "Thursday",
         "staff": [
             "Emily Battles"
         ],
@@ -754,6 +848,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:15am - 10:00am ",
+        "day": "Thursday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -762,6 +857,7 @@
     {
         "type": "30-minute Training",
         "time": " 9:30am - 10:00am ",
+        "day": "Thursday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -770,6 +866,7 @@
     {
         "type": "60-Minute Training",
         "time": " 10:00am - 11:00am ",
+        "day": "Thursday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -778,6 +875,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:00am - 11:45am ",
+        "day": "Thursday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -786,6 +884,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:00am - 11:45am ",
+        "day": "Thursday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -794,6 +893,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:00am - 11:45am ",
+        "day": "Thursday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -802,6 +902,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:30am - 12:15pm ",
+        "day": "Thursday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -810,6 +911,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:30am - 12:15pm ",
+        "day": "Thursday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -818,6 +920,7 @@
     {
         "type": "60-Minute Training",
         "time": " 12:00pm - 1:00pm ",
+        "day": "Thursday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -826,6 +929,7 @@
     {
         "type": "Private Royce Class (NOT PUBLIC)",
         "time": "12:30pm - 1:15pm",
+        "day": "Thursday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -834,6 +938,7 @@
     {
         "type": "Private Royce Class (NOT PUBLIC)",
         "time": "12:30pm - 1:15pm",
+        "day": "Thursday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -842,6 +947,7 @@
     {
         "type": "30-minute Training",
         "time": " 1:45pm - 2:15pm ",
+        "day": "Thursday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -850,6 +956,7 @@
     {
         "type": "60-minute VirtuaI Training",
         "time": " 3:00pm - 4:00pm ",
+        "day": "Thursday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -858,6 +965,7 @@
     {
         "type": "60-Minute Training",
         "time": " 4:00pm - 5:00pm ",
+        "day": "Thursday",
         "staff": [
             "Gabrielle Bolin"
         ],
@@ -866,6 +974,7 @@
     {
         "type": "45-Minute Training",
         "time": " 4:15pm - 5:00pm ",
+        "day": "Thursday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -874,22 +983,16 @@
     {
         "type": "45-Minute Training",
         "time": " 4:15pm - 5:00pm ",
+        "day": "Thursday",
         "staff": [
             "Wilfredo Rivera"
         ],
         "attendance": "Lori Bosses"
     },
     {
-        "type": "60-Minute Training for 2 people",
+        "type": "10 Sessions",
         "time": " 5:00pm - 6:00pm ",
-        "staff": [
-            "Olivia Matthes Theriault"
-        ],
-        "attendance": "Helen Garey"
-    },
-    {
-        "type": "60-Minute Training for 2 people",
-        "time": " 5:00pm - 6:00pm ",
+        "day": "Thursday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -898,6 +1001,7 @@
     {
         "type": "45-Minute Training",
         "time": " 5:15pm - 6:00pm ",
+        "day": "Thursday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -906,6 +1010,7 @@
     {
         "type": "45-Minute Training",
         "time": " 5:15pm - 6:00pm ",
+        "day": "Thursday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -914,6 +1019,7 @@
     {
         "type": "45-min Virtual Training",
         "time": " 5:30pm - 6:15pm ",
+        "day": "Thursday",
         "staff": [
             "Kevin Moroney"
         ],
@@ -922,6 +1028,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:00pm - 7:00pm ",
+        "day": "Thursday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -930,6 +1037,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:00pm - 7:00pm ",
+        "day": "Thursday",
         "staff": [
             "Gabrielle Bolin"
         ],
@@ -938,6 +1046,7 @@
     {
         "type": "60-Minute Training",
         "time": " 6:00pm - 7:00pm ",
+        "day": "Thursday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -946,6 +1055,7 @@
     {
         "type": "45-min Virtual Training",
         "time": " 6:45pm - 7:30pm ",
+        "day": "Thursday",
         "staff": [
             "Emily Battles"
         ],
@@ -954,6 +1064,7 @@
     {
         "type": "10 Sessions",
         "time": " 7:10pm - 8:10pm ",
+        "day": "Thursday",
         "staff": [
             "Jacky Ruan"
         ],
@@ -962,14 +1073,16 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "6:00am - 7:00am",
+        "day": "Friday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
-        "attendance": "6 / 12"
+        "attendance": "7 / 12"
     },
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Friday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -978,6 +1091,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Friday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -986,6 +1100,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Friday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -994,6 +1109,7 @@
     {
         "type": "45-Minute Training",
         "time": " 7:00am - 7:45am ",
+        "day": "Friday",
         "staff": [
             "Emily Battles"
         ],
@@ -1002,6 +1118,7 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "7:30am - 8:30am",
+        "day": "Friday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -1010,6 +1127,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:00am - 8:45am ",
+        "day": "Friday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1018,6 +1136,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:00am - 8:45am ",
+        "day": "Friday",
         "staff": [
             "Alex Steigelfest"
         ],
@@ -1026,6 +1145,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:00am - 8:45am ",
+        "day": "Friday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -1034,6 +1154,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:30am - 9:30am ",
+        "day": "Friday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -1042,6 +1163,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:30am - 9:30am ",
+        "day": "Friday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -1050,22 +1172,16 @@
     {
         "type": "45-Minute Training",
         "time": " 8:45am - 9:30am ",
+        "day": "Friday",
         "staff": [
             "Christopher Olsen"
         ],
         "attendance": "Robin Warren"
     },
     {
-        "type": "45-Minute Training",
-        "time": " 8:45am - 9:30am ",
-        "staff": [
-            "Tais Aguirre"
-        ],
-        "attendance": "Jennifer Baker"
-    },
-    {
         "type": "45-min Virtual Training",
         "time": " 9:15am - 10:00am ",
+        "day": "Friday",
         "staff": [
             "Kevin Moroney"
         ],
@@ -1074,6 +1190,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Friday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1082,6 +1199,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Friday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -1090,6 +1208,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Friday",
         "staff": [
             "Emily Battles"
         ],
@@ -1098,6 +1217,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:30am - 10:15am ",
+        "day": "Friday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -1106,6 +1226,7 @@
     {
         "type": "45-Minute Training",
         "time": " 10:00am - 10:45am ",
+        "day": "Friday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -1114,6 +1235,7 @@
     {
         "type": "45-Minute Training",
         "time": " 10:00am - 10:45am ",
+        "day": "Friday",
         "staff": [
             "Heather Gunn-Rivera"
         ],
@@ -1122,6 +1244,7 @@
     {
         "type": "45-Minute Training",
         "time": " 10:15am - 11:00am ",
+        "day": "Friday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1130,6 +1253,7 @@
     {
         "type": "45-min Virtual Training",
         "time": " 10:30am - 11:15am ",
+        "day": "Friday",
         "staff": [
             "Emily Battles"
         ],
@@ -1138,6 +1262,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:00am - 11:45am ",
+        "day": "Friday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1146,6 +1271,7 @@
     {
         "type": "45-Minute Training",
         "time": " 11:00am - 11:45am ",
+        "day": "Friday",
         "staff": [
             "Wilfredo Rivera"
         ],
@@ -1154,6 +1280,7 @@
     {
         "type": "60-Minute Training",
         "time": " 5:00pm - 6:00pm ",
+        "day": "Friday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -1162,6 +1289,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:00am - 9:00am ",
+        "day": "Saturday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1170,6 +1298,7 @@
     {
         "type": "60-Minute Training",
         "time": " 8:00am - 9:00am ",
+        "day": "Saturday",
         "staff": [
             "Emily Battles"
         ],
@@ -1178,6 +1307,7 @@
     {
         "type": "45-Minute Training",
         "time": " 8:15am - 9:00am ",
+        "day": "Saturday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -1186,14 +1316,16 @@
     {
         "type": "Women’s Strength: Lift",
         "time": "8:30am - 9:30am",
+        "day": "Saturday",
         "staff": [
             "Olivia Matthes Theriault"
         ],
-        "attendance": "4 / 12"
+        "attendance": "6 / 12"
     },
     {
         "type": "60-Minute Training",
         "time": " 9:00am - 10:00am ",
+        "day": "Saturday",
         "staff": [
             "Sammie Zimay"
         ],
@@ -1202,6 +1334,7 @@
     {
         "type": "45-Minute Training",
         "time": " 9:15am - 10:00am ",
+        "day": "Saturday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -1210,14 +1343,16 @@
     {
         "type": "GRFP Strength + Conditioning",
         "time": "9:30am - 10:30am",
+        "day": "Saturday",
         "staff": [
             "Olivia Matthes Theriault"
         ],
-        "attendance": "1 / 12"
+        "attendance": "2 / 12"
     },
     {
         "type": "45-Minute Training",
         "time": " 10:00am - 10:45am ",
+        "day": "Saturday",
         "staff": [
             "Tais Aguirre"
         ],
@@ -1226,6 +1361,7 @@
     {
         "type": "45-Minute Training",
         "time": " 10:00am - 10:45am ",
+        "day": "Saturday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1234,6 +1370,7 @@
     {
         "type": "45-Minute Training",
         "time": " 10:00am - 10:45am ",
+        "day": "Saturday",
         "staff": [
             "Emily Battles"
         ],
@@ -1242,6 +1379,7 @@
     {
         "type": "60-Minute Training",
         "time": " 11:45am - 12:45pm ",
+        "day": "Saturday",
         "staff": [
             "Christopher Olsen"
         ],
@@ -1250,6 +1388,7 @@
     {
         "type": "60-Minute Training",
         "time": " 12:45pm - 1:45pm ",
+        "day": "Saturday",
         "staff": [
             "Christopher Olsen"
         ],
